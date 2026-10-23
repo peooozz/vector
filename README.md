@@ -86,4 +86,3 @@ Levels are pure JSON-like objects inside `src/levels/world1.js` through `src/lev
   obstacles: []  // Optional Rock Spires: { position, radius, label }
 }
 ```
-# vector
